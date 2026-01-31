@@ -1,2 +1,2 @@
-# Car-Parking-system-using-verilog
+# Car-Parking-System-Using-Verilog
 In this project, a Car Parking System is designed using Verilog HDL. The system is developed by implementing digital logic to monitor vehicle entry and exit using sensor inputs at the gate. Here, the control logic verifies a user entered password to allow or deny access, where a correct password opens the gate and an incorrect password keeps it locked. The system also handles multiple vehicle arrivals by locking the gate when a vehicle is already passing through. The entire design and simulation are carried out in ModelSim.
